@@ -1,0 +1,86 @@
+package classandobjects;
+
+public class StudentMain {
+ public static void main(String[] args) {
+	 System.out.println("     Students Data of 1328 Batch ");
+	Student rasika=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(rasika.name="Rasika"));
+	System.out.println("City= "+(rasika.city="Pune"));
+	System.out.println("Mobile No.="+(rasika.mobN0=98255555555L));
+	System.out.println("Attendance"+(rasika.attendance=93));
+	System.out.println("Marks"+(rasika.marks=95));
+	Student bhagyashree=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(bhagyashree.name="bhagyashree"));
+	System.out.println("City= "+(bhagyashree.city="Pune"));
+	System.out.println("Mobile No.="+(bhagyashree.mobN0=98255555555L));
+	System.out.println("Attendance"+(bhagyashree.attendance=93));
+	System.out.println("Marks"+(bhagyashree.marks=95));
+	Student sayali=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(sayali.name="sayali"));
+	System.out.println("City= "+(sayali.city="Pune"));
+	System.out.println("Mobile No.="+(sayali.mobN0=98255555555L));
+	System.out.println("Attendance"+(sayali.attendance=93));
+	System.out.println("Marks"+(sayali.marks=95));
+	Student soniya =new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(soniya.name="soniya"));
+	System.out.println("City= "+(soniya.city="Pune"));
+	System.out.println("Mobile No.="+(soniya.mobN0=98255555555L));
+	System.out.println("Attendance"+(soniya.attendance=93));
+	System.out.println("Marks"+(soniya.marks=95));
+	Student vaishnavi=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(vaishnavi.name="vaishnavi"));
+	System.out.println("City= "+(vaishnavi.city="Pune"));
+	System.out.println("Mobile No.="+(vaishnavi.mobN0=98255555555L));
+	System.out.println("Attendance"+(vaishnavi.attendance=93));
+	System.out.println("Marks"+(vaishnavi.marks=95));
+	Student shravan=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(shravan.name="shravan"));
+	System.out.println("City= "+(shravan.city="Pune"));
+	System.out.println("Mobile No.="+(shravan.mobN0=98255555555L));
+	System.out.println("Attendance"+(shravan.attendance=93));
+	System.out.println("Marks"+(shravan.marks=95));
+	Student sahil=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(sahil.name="sahil"));
+	System.out.println("City= "+(sahil.city="Pune"));
+	System.out.println("Mobile No.="+(sahil.mobN0=98255555555L));
+	System.out.println("Attendance"+(sahil.attendance=93));
+	System.out.println("Marks"+(sahil.marks=95));
+	Student pratik=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(pratik.name="pratik"));
+	System.out.println("City= "+(pratik.city="Pune"));
+	System.out.println("Mobile No.="+(pratik.mobN0=98255555555L));
+	System.out.println("Attendance"+(pratik.attendance=93));
+	System.out.println("Marks"+(pratik.marks=95));
+	Student sharadprasad=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(sharadprasad.name="sharadprasad"));
+	System.out.println("City= "+(sharadprasad.city="Pune"));
+	System.out.println("Mobile No.="+(sharadprasad.mobN0=98255555555L));
+	System.out.println("Attendance"+(sharadprasad.attendance=93));
+	System.out.println("Marks"+(sharadprasad.marks=95));
+	Student aditya=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(aditya.name="aditya"));
+	System.out.println("City= "+(aditya.city="Pune"));
+	System.out.println("Mobile No.="+(aditya.mobN0=98255555555L));
+	System.out.println("Attendance"+(aditya.attendance=93));
+	System.out.println("Marks"+(aditya.marks=95));
+	Student ram=new Student();
+	System.out.println("-------------------------------------");
+	System.out.println( "Name of Student="+(ram.name="ram"));
+	System.out.println("City= "+(ram.city="Pune"));
+	System.out.println("Mobile No.="+(ram.mobN0=98255555555L));
+	System.out.println("Attendance"+(ram.attendance=93));
+	System.out.println("Marks"+(ram.marks=95));
+	
+
+}
+}
