@@ -1,11 +1,10 @@
 package classandobjects;
-
 public class Employee {
  int empid;
  String name;
  double sal;
  String city;
-  void m4() {
+  void showDetails() {
 	  System.out.println("--- Employee Information---");
 	  System.out.println("Employee ID-->"+empid);
 	  System.out.println("Employee Name-->"+name);

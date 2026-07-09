@@ -6,8 +6,8 @@ public class Vehicle {
   String brand;
   long price;
   int year;
-   void m1() {
-	   System.out.println("----Car Information----");
+   void showCar() {
+	   System.err.println("----Car Information----");
 	     System.out.println(" Car Name -->"+name);
 	     System.out.println(" Car Brand -->"+brand);
 	     System.out.println(" Model Year-->"+year);

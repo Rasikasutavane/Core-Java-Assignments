@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	emp.city=" Pune";
 	emp.empid=8765;
 	emp.sal=700000;
-	emp.m4();
+	emp.showDetails();
 	
 }
 }
