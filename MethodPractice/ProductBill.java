@@ -6,13 +6,13 @@ public class ProductBill {
 
         double price = 0;
 
-        if (item.equalsIgnoreCase("Pizza")) {
+        if (item.equals("Pizza")) {
             price = 250;
-        } else if (item.equalsIgnoreCase("Burger")) {
+        } else if (item.equals("Burger")) {
             price = 120;
-        } else if (item.equalsIgnoreCase("Sandwich")) {
+        } else if (item.equals("Sandwich")) {
             price = 100;
-        } else if (item.equalsIgnoreCase("Pasta")) {
+        } else if (item.equals("Pasta")) {
             price = 180;
         } else {
             System.out.println("Item Not Available");
