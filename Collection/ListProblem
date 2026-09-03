@@ -1,0 +1,19 @@
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
+import java.util.HashMap;
+public class ListProblerm {
+
+	public static void main(String[] args) {
+		
+ 
+		List<Integer> studId=  Arrays.asList(101,102,103,104);
+		List<Long>mobNo=Arrays.asList(9866543245L,98776658765L,987765432L,9877665443L);
+		
+		Map<Integer,Long> map=new HashMap<>();
+		for( int i=0;i<studId.size();i++) {
+			map.put(studId.get(i), mobNo.get(i));
+		}System.out.println(map);
+	}
+
+}
